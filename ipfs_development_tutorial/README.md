@@ -1,5 +1,5 @@
 ## IPFS应用开发教程
-By 古千峰 Jacky@BTCMedia、IPFSForce
+By 小马 momo1106714071
 
 ### 第一章、基础篇
 #### 1- [IPFS安装与启动](doc/ipfs_setup.md)
