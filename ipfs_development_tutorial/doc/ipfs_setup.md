@@ -1,5 +1,5 @@
 ## IPFS安装与启动
-### By Jacky 古千峰@BTCMedia、IPFSForce
+
 
 #### go-ipfs-0.4.17 下载地址
 1- IPFS网络下载(推荐，速度最快)

@@ -1,5 +1,5 @@
 ## Truffle以太坊开发环境搭建
-### By Jacky古千峰
+
 
 #### 一、安装`Truffle`
 ```

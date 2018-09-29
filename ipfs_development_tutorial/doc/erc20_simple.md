@@ -1,5 +1,5 @@
 ## 基于zeppelin创建一个安全简单的ERC20合约
-#### By Jacky 古千峰@BTCMedia、IPFSForce
+
 
 本教程来介绍下`ERC20`合约，以及如何使用`zeppelin`合约开发组件来快速、安全的发行`ERC20`合约，即代币。
 

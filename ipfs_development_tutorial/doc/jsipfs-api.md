@@ -1,5 +1,5 @@
 ## IPFS开发教程：js-ipfs
-#### Edit by 古千峰 JackyGu@BTCMedia、IPFSForce on Aug.1,2018
+
 
 ### 一、安装
 

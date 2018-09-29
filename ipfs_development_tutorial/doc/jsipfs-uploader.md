@@ -1,6 +1,5 @@
 ## 开发基于IPFS的文件分享系统
 
-### 作者：古千峰 Jacky@BTCMedia、IPFSForce
 
 #### 本教程目的：
 通过实例分析，讲解如何基于javascript的ipfs-api组件，开发一个文件分享系统。

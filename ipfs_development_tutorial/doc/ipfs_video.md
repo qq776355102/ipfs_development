@@ -1,8 +1,6 @@
 ## 基于HTML5的IPFS播放器
 
-### By 古千峰 Jacky@BTCMedia、IPFSForce
 
-```
 <video id="video" controls="" preload="none" poster="http://media.w3.org/2010/05/sintel/poster.png">
 	<source id="mp4" src="https://www.eternum.io/ipfs/QmU1GSqu4w29Pt7EEM57Lhte8Lce6e7kuhRHo6rSNb2UaC" type="video/mp4">
     <p>Your user agent does not support the HTML5 Video element.</p>
